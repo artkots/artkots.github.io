@@ -1,5 +1,5 @@
-# artkots.github.io
-My repository 
+# Артём Коцубинский
+Мои ДЗ
 
 [Урок 9](artkots.github.io/module_3_(lesson_9)/src/ "Работа с графикой для разработчика")
 
