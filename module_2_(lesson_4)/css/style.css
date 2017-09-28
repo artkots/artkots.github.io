@@ -1,0 +1,30 @@
+
+body {
+    font-size: 30px;
+}
+div {
+    border: 1 solid black;
+}
+
+.imp {
+    color: red;
+    border: 1px solid red;
+    font-size: 60px;
+}
+
+h1, h2, h3, h4, h5 {
+    color: green;
+}
+.container {
+    width: 700px;
+    margin: auto;
+}
+
+.menu {
+    width: 300px;
+    margin: auto;
+}
+
+.fix {
+    position: fixed;
+}
