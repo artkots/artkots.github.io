@@ -19,3 +19,5 @@
 
 [Урок 11](https://github.com/artkots/artkots.github.io/tree/master/module_4_(lesson_11) "Сниппеты") - Сниппеты
 
+[Урок 13](https://github.com/artkots/artkots.github.io/tree/master/module_5_(lesson_13) "Адаптивная верстка") - Адаптивная верстка
+
