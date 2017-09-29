@@ -1,8 +1,6 @@
 # Артём Коцубинский
 Мои ДЗ
 
-[Урок 8](http://artkots.github.io/module_3_(lesson_8)/src/ "Работа с графикой для разработчика")
-
 [Урок 2](https://github.com/artkots/artkots.github.io/tree/master/module_1_(lesson_2) "Работа с графикой для разработчика") - Работа с графикой для разработчика
 
 [Урок 3](https://github.com/artkots/artkots.github.io/tree/master/module_1_(lesson_3) "Настройка рабочего пространства") - Настройка рабочего пространства
