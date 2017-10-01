@@ -10,6 +10,7 @@ html {
   border-radius: 8px;
   text-transform: uppercase;
   border: none;
+  text-decoration: none;
 }
 /*typography*/
 section {
@@ -19,7 +20,7 @@ section {
 main {
   padding: 3rem 0;
 }
-header {
+.header {
   height: 7rem;
 }
 .phone-link {
@@ -28,6 +29,7 @@ header {
   font-weight: 900;
   font-size: 1.7rem;
   line-height: 7rem;
+  text-decoration: none;
 }
 .wrap {
   display: table;
