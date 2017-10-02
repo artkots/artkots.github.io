@@ -21,6 +21,9 @@
 
 [Урок 13](https://github.com/artkots/artkots.github.io/tree/master/module_5_(lesson_13) "Адаптивная верстка") - Адаптивная верстка
 
-[Практика (часть 1)](https://github.com/artkots/artkots.github.io/tree/master/module_5_(practice_part_1)/src/# "Адаптивная верстка") - Практика часть 1
+[Практика (часть 1)](https://github.com/artkots/artkots.github.io/tree/master/module_5_(practice_part_1)/src/# "Практика часть 1") - Практика часть 1
 
-[Урок 14](https://github.com/artkots/artkots.github.io/tree/master/module_5_(lesson_14) "Адаптивная верстка") - Практика часть 1
+[Урок 14](https://github.com/artkots/artkots.github.io/tree/master/module_5_(lesson_14) "Шрифты") - Шрифты
+
+[Практика (часть 2)](https://github.com/artkots/artkots.github.io/tree/master/module_5_(practice_part_2)/src/# "Практика часть 2") - Практика часть 2
+
