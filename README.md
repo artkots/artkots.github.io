@@ -17,7 +17,7 @@
 
 [Урок 9](https://github.com/artkots/artkots.github.io/tree/master/module_3_(lesson_9) "Верстка при помощи bootstrap") - Верстка при помощи bootstrap
 
-[Урок 9](https://github.com/artkots/artkots.github.io/tree/master/module_4_(lesson_10) "LESS") - LESS
+[Урок 10](https://github.com/artkots/artkots.github.io/tree/master/module_4_(lesson_10) "LESS") - LESS
 
 [Урок 11](https://github.com/artkots/artkots.github.io/tree/master/module_4_(lesson_11) "Сниппеты") - Сниппеты
 
