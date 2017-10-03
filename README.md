@@ -29,3 +29,5 @@
 
 [Урок 15](https://github.com/artkots/artkots.github.io/tree/master/module_5_(lesson_15) "Псевдоклассы и псевдоэлементы ") - Псевдоклассы и псевдоэлементы 
 
+[Практика (часть 3)](https://github.com/artkots/artkots.github.io/tree/master/module_5_(practice_part_3)/src/# "Практика часть 2") - Практика часть 3
+
