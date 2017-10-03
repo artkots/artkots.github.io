@@ -27,3 +27,5 @@
 
 [Практика (часть 2)](https://github.com/artkots/artkots.github.io/tree/master/module_5_(practice_part_2)/src/# "Практика часть 2") - Практика часть 2
 
+[Урок 14](https://github.com/artkots/artkots.github.io/tree/master/module_5_(lesson_15) "Псевдоклассы и псевдоэлементы ") - Псевдоклассы и псевдоэлементы 
+
