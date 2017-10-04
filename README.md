@@ -9,7 +9,9 @@
 
 [Урок 5](https://artkots.github.io/module_2_(lesson_5)/ "Знакомство с основами CSS") - Знакомство с основами CSS
 
-[Урок 6](https://github.com/artkots/artkots.github.io/tree/master/module_2_(lesson_6) "Позиционирование в CSS") - Позиционирование в CSS
+[Урок 6 (часть 1)](https://artkots.github.io/module_2_(lesson_6)/index.html "Позиционирование в CSS") - Позиционирование в CSS
+
+[Урок 6 (часть 2)](https://artkots.github.io/module_2_(lesson_6)/index_2.html "Позиционирование в CSS") - Позиционирование в CSS
 
 [Урок 7](https://github.com/artkots/artkots.github.io/tree/master/module_3_(lesson_7) "Верстка первого макета") - Верстка первого макета
 
