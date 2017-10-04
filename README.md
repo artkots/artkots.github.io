@@ -17,7 +17,7 @@
 
 [Урок 8](https://artkots.github.io/module_3_(lesson_8)/src/ "Ускорение верстки в разы") - Ускорение верстки в разы
 
-[Урок 9](artkots.github.io/module_3_(lesson_9)/src/ "Верстка при помощи bootstrap") - Верстка при помощи bootstrap
+[Урок 9](https://github.com/artkots/artkots.github.io/tree/master/module_3_(lesson_9)/src/ "Верстка при помощи bootstrap") - Верстка при помощи bootstrap
 
 [Урок 10](https://github.com/artkots/artkots.github.io/tree/master/module_4_(lesson_10) "LESS") - LESS
 
@@ -25,9 +25,9 @@
 
 [Урок 13](artkots.github.io/module_5_(lesson_13)/src/ "Адаптивная верстка") - Адаптивная верстка
 
-[Практика (часть 1)](artkots.github.io/module_5_(practice_part_1)/src/ "Практика часть 1") - Практика часть 1
+[Практика (часть 1)](https://github.com/artkots/artkots.github.io/tree/master/module_5_(practice_part_1)/src/ "Практика часть 1") - Практика часть 1
 
-[Урок 14](https://github.com/artkots/artkots.github.io/tree/master/module_5_(lesson_14) "Шрифты") - Шрифты
+[Урок 14](https://artkots.github.io/module_5_(lesson_14)/ "Шрифты") - Шрифты
 
 [Практика (часть 2)](https://github.com/artkots/artkots.github.io/tree/master/module_5_(practice_part_2)/src/# "Практика часть 2") - Практика часть 2
 
