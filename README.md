@@ -7,7 +7,7 @@
 
 [Урок 4](https://artkots.github.io/module_2_(lesson_4)/#del "Знакомство с основами HTML") - Знакомство с основами HTML
 
-[Урок 5](https://github.com/artkots/artkots.github.io/tree/master/module_2_(lesson_5) "Знакомство с основами CSS") - Знакомство с основами CSS
+[Урок 5](https://artkots.github.io/module_2_(lesson_5)/ "Знакомство с основами CSS") - Знакомство с основами CSS
 
 [Урок 6](https://github.com/artkots/artkots.github.io/tree/master/module_2_(lesson_6) "Позиционирование в CSS") - Позиционирование в CSS
 
