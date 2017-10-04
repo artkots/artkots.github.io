@@ -29,9 +29,9 @@
 
 [Урок 14](https://artkots.github.io/module_5_(lesson_14)/ "Шрифты") - Шрифты
 
-[Практика (часть 2)](https://github.com/artkots/artkots.github.io/tree/master/module_5_(practice_part_2)/src/# "Практика часть 2") - Практика часть 2
+[Практика (часть 2)](https://artkots.github.io/module_5_(practice_part_2)/src/ "Практика часть 2") - Практика часть 2
 
-[Урок 15](https://github.com/artkots/artkots.github.io/tree/master/module_5_(lesson_15) "Псевдоклассы и псевдоэлементы ") - Псевдоклассы и псевдоэлементы 
+[Урок 15](https://artkots.github.io/module_5_(lesson_15)/ "Псевдоклассы и псевдоэлементы ") - Псевдоклассы и псевдоэлементы 
 
-[Практика (часть 3)](https://github.com/artkots/artkots.github.io/tree/master/module_5_(practice_part_3)/src/# "Практика часть 2") - Практика часть 3
+[Практика (часть 3)](https://artkots.github.io/module_5_(practice_part_3)/src/ "Практика часть 2") - Практика часть 3
 
