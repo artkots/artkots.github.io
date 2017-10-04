@@ -23,7 +23,7 @@
 
 [Урок 11](https://github.com/artkots/artkots.github.io/tree/master/module_4_(lesson_11) "Сниппеты") - Сниппеты
 
-[Урок 13](artkots.github.io/module_5_(lesson_13)/src/ "Адаптивная верстка") - Адаптивная верстка
+[Урок 13](https://artkots.github.io/module_5_(lesson_13)/src/?# "Адаптивная верстка") - Адаптивная верстка
 
 [Практика (часть 1)](https://github.com/artkots/artkots.github.io/tree/master/module_5_(practice_part_1)/src/ "Практика часть 1") - Практика часть 1
 
