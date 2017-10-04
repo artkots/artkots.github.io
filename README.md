@@ -35,3 +35,5 @@
 
 [Практика (часть 3)](https://artkots.github.io/module_5_(practice_part_3)/src/ "Практика часть 2") - Практика часть 3
 
+[Урок 16](https://artkots.github.io/module_5_(lesson_16)/ "Слайдер") - Слайдер 
+
