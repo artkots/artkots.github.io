@@ -5,7 +5,7 @@
 
 [Урок 3](https://github.com/artkots/artkots.github.io/tree/master/module_1_(lesson_3) "Настройка рабочего пространства") - Настройка рабочего пространства
 
-[Урок 4](https://github.com/artkots/artkots.github.io/tree/master/module_2_(lesson_4) "Знакомство с основами HTML") - Знакомство с основами HTML
+[Урок 4](https://artkots.github.io/module_2_(lesson_4)/#del "Знакомство с основами HTML") - Знакомство с основами HTML
 
 [Урок 5](https://github.com/artkots/artkots.github.io/tree/master/module_2_(lesson_5) "Знакомство с основами CSS") - Знакомство с основами CSS
 
