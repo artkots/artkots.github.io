@@ -33,7 +33,9 @@
 
 [Урок 15](https://artkots.github.io/module_5_(lesson_15)/ "Псевдоклассы и псевдоэлементы ") - Псевдоклассы и псевдоэлементы 
 
-[Практика (часть 3)](https://artkots.github.io/module_5_(practice_part_3)/src/ "Практика часть 2") - Практика часть 3
+[Практика (часть 3)](https://artkots.github.io/module_5_(practice_part_3)/src/ "Практика часть 3") - Практика часть 3
 
 [Урок 16](https://artkots.github.io/module_5_(lesson_16)/ "Слайдер") - Слайдер 
+
+[Практика (часть 4)](https://artkots.github.io/module_5_(practice_part_4)/src/ "Практика часть 4") - Практика часть 4
 
