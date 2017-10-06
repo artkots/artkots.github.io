@@ -12,7 +12,6 @@
   background-color: #2e7418;
   color: #ffffff;
   border: 2px solid #276714;
-  margin-right: 50px;
 }
 .close-btn:hover {
   background-color: #239f19;
@@ -29,6 +28,4 @@
   border: 2px solid #891b1b;
   color: white;
 }
-.modal-footer {
-  text-align: center;
-}
+
