@@ -39,3 +39,5 @@
 
 [Практика (часть 4)](https://artkots.github.io/module_5_(practice_part_4)/src/ "Практика часть 4") - Практика часть 4
 
+[Урок 17](https://artkots.github.io/module_5_(lesson_17)/src/index.html "Окна") - Окна 
+
