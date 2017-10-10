@@ -42,3 +42,6 @@
 [Урок 17](https://artkots.github.io/module_5_(lesson_17)/src/index.html "Окна") - Окна 
 
 [Практика (часть 5)](https://artkots.github.io/module_5_(practice_part_5)/src/ "Практика часть 5") - Практика часть 5
+
+[Урок 18 часть 1](https://github.com/artkots/artkots.github.io/tree/master/module_5_(lesson_18)(part-1)/src "Табы") - Табы 
+[Урок 18 часть 2](https://github.com/artkots/artkots.github.io/tree/master/module_5_(lesson_18)(part-2)/src "Табы") - Табы 
