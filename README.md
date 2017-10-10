@@ -43,5 +43,7 @@
 
 [Практика (часть 5)](https://artkots.github.io/module_5_(practice_part_5)/src/ "Практика часть 5") - Практика часть 5
 
-[Урок 18 часть 1](https://artkots.github.io/module_5_(lesson_18)(part-1)/src/ "Табы") - Табы 
+[Урок 18 часть 1](https://artkots.github.io/module_5_(lesson_18)(part-1)/src/ "Табы") - Табы   
 [Урок 18 часть 2](https://artkots.github.io/module_5_(lesson_18)(part-2)/src/ "Гармошка") - Гармошка 
+
+[Практика (часть 6)](https://artkots.github.io/module_5_(practice_part_6)/src/ "Практика часть 6") - Практика часть 6
