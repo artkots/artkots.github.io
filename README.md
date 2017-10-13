@@ -52,5 +52,5 @@
 
 [Практика (часть 7)](https://artkots.github.io/module_6_(practice_part_7)/src/ "Практика часть 7") - Практика часть 7
 
-[Урок 20](artkots.github.io/module_6_(practice_part_7)/src/ "Видеофон") - Видеофон 
+[Урок 20](https://artkots.github.io/module_6_(lesson_20)/src/ "Видеофон") - Видеофон 
 
