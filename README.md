@@ -54,3 +54,4 @@
 
 [Урок 20](https://artkots.github.io/module_6_(lesson_20)/src/ "Видеофон") - Видеофон 
 
+[Практика (часть 8)](https://artkots.github.io/module_6_(practice_part_8)/src/ "Практика часть 8") - Практика часть 8
