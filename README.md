@@ -47,3 +47,5 @@
 [Урок 18 часть 2](https://artkots.github.io/module_5_(lesson_18)(part-2)/src/ "Гармошка") - Гармошка 
 
 [Практика (часть 6)](https://artkots.github.io/module_5_(practice_part_6)/src/ "Практика часть 6") - Практика часть 6
+
+[Урок 19](https://artkots.github.io/module_6_(lesson_19)/src/ "Анимация") - Анимация 
