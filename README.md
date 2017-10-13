@@ -48,4 +48,7 @@
 
 [Практика (часть 6)](https://artkots.github.io/module_5_(practice_part_6)/src/ "Практика часть 6") - Практика часть 6
 
-[Урок 19](https://artkots.github.io/module_6_(lesson_19)/src/ "Анимация") - Анимация 
+[Урок 19](https://artkots.github.io/module_6_(lesson_19)/src/ "Анимация") - Анимация
+
+[Практика (часть 7)](https://artkots.github.io/module_6_(practice_part_7)/src/ "Практика часть 7") - Практика часть 7
+
