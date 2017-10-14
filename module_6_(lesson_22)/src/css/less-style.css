@@ -1,0 +1,57 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans';
+}
+.map {
+    position: relative;
+/*
+    width: 1920px;
+    height: 430px;
+*/
+    margin-right: auto;
+    margin-left: auto;
+}
+.text {
+    width: 1920px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.footer {
+    height: 100px;
+    padding: 20px;
+    margin-bottom: ;
+}
+.red-block {
+/*    display: inline-block;*/
+    position: absolute;
+    width: 400px;
+    height: 100%;
+    background-color: #c60b0b;
+    z-index: 2;
+/*    left: 450px;*/
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    padding: 70px; 
+}
+.block-2 {
+    font-size: 14px;
+    text-align: center;
+    color: #666666;
+    
+}
+.phone {
+    text-align: right;
+    font-size: 14px;
+    padding-left: 40px;
+}
+strong {
+    font-size: 22px;
+}
+.tpb {
+    padding: 0 90px;
+}
+.bold {
+    font-size: 30px;
+}
