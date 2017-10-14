@@ -60,3 +60,5 @@
 
 [Практика (часть 9)](https://artkots.github.io/module_6_(practice_part_9)/src/ "Практика часть 9") - Практика часть 9
 
+[Урок 22](https://artkots.github.io/module_6_(lesson_22)/src/ "Карты") - Карты 
+
