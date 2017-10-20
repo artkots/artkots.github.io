@@ -66,3 +66,5 @@
 
 
 [Практика (часть 11)](https://artkots.github.io/module_6_(practice_part_11)/src/ "Практика часть 11") - Практика часть 11
+
+[Урок 20](https://artkots.github.io/module_6_(lesson_21)/ "Параллакс") - Параллакс 
